@@ -1,0 +1,11 @@
+pages:
+  - id: index
+    title: Asobo
+    route: /
+    description: >
+      Main HTML entry point for Asobo Flutter web app with meta tags for SEO and
+      social sharing, favicon, theme color settings, and manifest configuration.
+    ui_elements: []
+    components: []
+    source_file: web/index.html
+    source_path: /workspace/app/web/index.html
