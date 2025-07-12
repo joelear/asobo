@@ -1,0 +1,21 @@
+ui_elements:
+  - id: favicon
+    type: icon
+    description: Website favicon image in PNG format
+    source_file: web/index.html
+    source_path: /workspace/app/web/index.html
+  - id: og_image
+    type: meta_image
+    description: Open Graph social sharing preview image
+    source_file: web/index.html
+    source_path: /workspace/app/web/index.html
+  - id: twitter_card
+    type: meta_image
+    description: Twitter large card preview image
+    source_file: web/index.html
+    source_path: /workspace/app/web/index.html
+  - id: theme_color
+    type: meta_theme
+    description: Status bar color for Safari and PWA in light/dark modes
+    source_file: web/index.html
+    source_path: /workspace/app/web/index.html
